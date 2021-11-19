@@ -1,0 +1,7 @@
+name: Custom
+description: "Test custom module drupal 8"
+package: 'Le Vo Trung Hieu'
+type: module
+core: 8.x
+version: '8.x-1.0'
+project: 'custom'
